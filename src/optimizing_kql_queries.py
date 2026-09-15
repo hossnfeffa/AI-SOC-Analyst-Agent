@@ -11,7 +11,7 @@ import pandas as pd
 
 init(autoreset=True)
 
-LOG_ANALYTICS_WORKSPACE_ID = "60c7f53e-249a-4077-b68e-55a4ae877d7c"
+LOG_ANALYTICS_WORKSPACE_ID = "xxxxx"
 
 # Models: https://platform.openai.com/docs/models/compare
 MODELS = {
